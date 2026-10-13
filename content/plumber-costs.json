@@ -1,0 +1,73 @@
+{
+  "slug": "plumber-costs",
+  "title": "How Much Does a Plumber Cost? What Affects the Price",
+  "description": "Call-out charges, hourly vs fixed prices, parts, access, permits and out-of-hours rates: what affects plumber costs in the UK and USA and how to compare quotes.",
+  "nav": "Costs",
+  "navOrder": 5,
+  "eyebrow": "Prices and quotes",
+  "h1": "What affects the cost of a plumber?",
+  "intro": "Plumbing prices vary widely by area, firm and job. Rather than guess at figures, here's what drives the price and how to make sure quotes are comparable.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1620653713380-7a34b773fef8",
+    "alt": "Plumber holding a yellow and grey hand tool",
+    "credit": "Marian Florinel Condruz",
+    "creditUrl": "https://unsplash.com/@gottapics"
+  },
+  "search": false,
+  "heroHtml": "<p class=\"hero-cta\"><a class=\"finder-go as-link\" href=\"/find-a-plumber/\">Find a plumber in your area <span aria-hidden=\"true\">→</span></a></p>",
+  "highlights": [
+    {
+      "icon": "🌍",
+      "title": "UK and USA",
+      "text": "Advice written for both, with the differences called out."
+    },
+    {
+      "icon": "📍",
+      "title": "Region first",
+      "text": "Choose your country and region before you compare."
+    },
+    {
+      "icon": "✔",
+      "title": "Check before you book",
+      "text": "The registers and licences to look for, in plain English."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "The main things that affect price",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Factor</th><th scope=\"col\">Why it matters</th></tr></thead><tbody><tr><th scope=\"row\">Call-out or trip charge</th><td>Some plumbers charge to attend, sometimes deducted from the job.</td></tr><tr><th scope=\"row\">Hourly vs fixed price</th><td>Hourly suits diagnosis and small jobs; fixed prices suit defined work like installs.</td></tr><tr><th scope=\"row\">Time of day</th><td>Evenings, weekends and holidays are often charged at a higher rate.</td></tr><tr><th scope=\"row\">Parts and materials</th><td>Fittings, valves, boilers and water heaters vary a lot in price and quality.</td></tr><tr><th scope=\"row\">Access</th><td>Pipes under floors, behind tiles or in tight spaces take longer.</td></tr><tr><th scope=\"row\">Location</th><td>Labour rates differ between cities and rural areas, and between regions and states.</td></tr><tr><th scope=\"row\">Permits and certification</th><td>US permits and UK certification or notification can add to the cost.</td></tr><tr><th scope=\"row\">Tax</th><td>UK quotes may or may not include VAT; in the USA sales tax on parts varies by state.</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Comparing quotes fairly",
+      "html": "<ul><li>Get at least three written quotes for planned work.</li><li>Make sure each quote covers the same scope, parts and finish.</li><li>Ask what happens if they find extra problems once work starts.</li><li>Check guarantees on labour and warranties on parts.</li><li>The cheapest quote isn't always the best value. Check registration, licence and insurance too.</li></ul>"
+    },
+    {
+      "h2": "Your rights",
+      "html": "<p><strong>UK:</strong> under the Consumer Rights Act 2015, a service must be carried out with reasonable care and skill, and for a reasonable price if none was agreed. If you agree a contract in your home you usually have a 14-day cancellation period, though urgent repairs you asked for can be an exception.</p><p><strong>USA:</strong> consumer protection rules vary by state. Your state attorney general's office publishes guidance on hiring contractors.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why don't you list prices?",
+      "a": "Prices change and vary a lot by area and job, and we don't want to show figures that could be out of date or wrong for you. Written quotes from local plumbers are the only reliable guide."
+    },
+    {
+      "q": "Should I pay a deposit?",
+      "a": "For bigger jobs a deposit for materials is common. Avoid paying the full amount up front and get the payment terms in writing."
+    }
+  ],
+  "related": [
+    "choosing-a-plumber",
+    "find-a-plumber",
+    "emergency-plumbers"
+  ],
+  "keywords": [
+    "plumber cost",
+    "plumber prices",
+    "plumber call out charge",
+    "plumbing quote",
+    "how much is a plumber"
+  ],
+  "updated": "2026-10-14",
+  "cardText": "Plumbing prices vary widely by area, firm and job."
+}

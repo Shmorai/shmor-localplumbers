@@ -1,0 +1,80 @@
+{
+  "slug": "water-heater-repair",
+  "title": "Water Heater Repair and Replacement (USA): A Guide",
+  "description": "No hot water or a leaking tank? Tank vs tankless water heaters, safe checks, permits, gas safety and how to compare quotes from licensed plumbers.",
+  "nav": "Water heaters",
+  "eyebrow": "USA: water heaters",
+  "h1": "Water heater repair and replacement",
+  "intro": "Most US homes get hot water from a tank or tankless water heater, powered by gas or electricity. Here's what you can check, and what to ask a licensed plumber.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1676210134190-3f2c0d5cf58d",
+    "alt": "Plumber fixing a water heater",
+    "credit": "Timur Shakerzianov",
+    "creditUrl": "https://unsplash.com/@shaker_jpg"
+  },
+  "search": false,
+  "heroHtml": "<p class=\"hero-cta\"><a class=\"finder-go as-link\" href=\"/find-a-plumber/\">Find a plumber in your area <span aria-hidden=\"true\">→</span></a></p>",
+  "highlights": [
+    {
+      "icon": "🪪",
+      "title": "Licensed pros",
+      "text": "Check your state or local plumbing license."
+    },
+    {
+      "icon": "📝",
+      "title": "Permits",
+      "text": "Replacement often needs a permit and inspection."
+    },
+    {
+      "icon": "🔥",
+      "title": "Gas safety",
+      "text": "Smell gas? Leave and call 911 or your utility."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Tank or tankless?",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Type</th><th scope=\"col\">How it works</th><th scope=\"col\">Things to ask about</th></tr></thead><tbody><tr><th scope=\"row\">Tank (storage)</th><td>Heats and stores water in an insulated tank, ready to use.</td><td>Size for your household, venting for gas models, space and drain pan.</td></tr><tr><th scope=\"row\">Tankless (on-demand)</th><td>Heats water as it flows through, with no storage tank.</td><td>Flow rate for your peak use, gas line or electrical capacity, venting and descaling.</td></tr><tr><th scope=\"row\">Heat pump</th><td>Moves heat from the surrounding air into the water.</td><td>Space and ventilation around the unit, and any local rebates.</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Safe checks before you call",
+      "html": "<ul><li>Electric: check the breaker hasn't tripped.</li><li>Gas: check the pilot light or ignition status as the manual describes, and that the gas supply is on.</li><li>Check the thermostat setting.</li><li>Look for water around the base. A leaking tank usually needs replacing, so turn off the water supply to it and the power or gas.</li></ul><div class=\"callout warn\"><p>Never block or tamper with the temperature and pressure (T&amp;P) relief valve. If you smell gas, leave the building and call 911 or your gas utility from outside.</p></div>"
+    },
+    {
+      "h2": "Permits and licensing",
+      "html": "<p>Many cities and counties need a permit to replace a water heater, so it can be inspected for safe venting, gas connections, relief valve piping and, in some areas, seismic strapping. A licensed plumber usually pulls the permit. Ask whether it's included in the quote.</p>"
+    },
+    {
+      "h2": "Comparing quotes",
+      "html": "<ul><li>Is the price for the unit, labor, permit, haul-away of the old heater and any code upgrades?</li><li>What warranty comes with the tank or heat exchanger, and with labor?</li><li>Is the unit sized for your household's hot water use?</li><li>Are there utility or government rebates for high-efficiency models? Check your utility and ENERGY STAR.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I repair or replace my water heater?",
+      "a": "A failed part such as a thermostat, element or igniter can often be repaired. A leaking tank usually means replacement. Ask a licensed plumber to explain both options in writing."
+    },
+    {
+      "q": "Do I need a permit to replace a water heater?",
+      "a": "Often, yes. Requirements are set by your city or county. Ask your plumber or local building department."
+    },
+    {
+      "q": "I'm in the UK. Is this guide for me?",
+      "a": "UK homes more often use combi boilers or hot water cylinders. See our <a href=\"/boiler-repair/\">boiler guide</a> instead."
+    }
+  ],
+  "related": [
+    "plumbers-usa",
+    "plumber-costs",
+    "emergency-plumbers"
+  ],
+  "keywords": [
+    "water heater",
+    "water heater repair",
+    "water heater replacement",
+    "tankless water heater",
+    "no hot water"
+  ],
+  "updated": "2026-10-14",
+  "cardText": "Most US homes get hot water from a tank or tankless water heater, powered by gas or electricity."
+}

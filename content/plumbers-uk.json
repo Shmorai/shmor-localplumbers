@@ -1,0 +1,79 @@
+{
+  "slug": "plumbers-uk",
+  "title": "Plumbers in the UK: Registers, Regions and Rules",
+  "description": "Finding a plumber in England, Scotland, Wales or Northern Ireland: Gas Safe and WaterSafe registers, trade bodies, water companies and the rules that apply.",
+  "nav": "UK guide",
+  "navOrder": 6,
+  "eyebrow": "United Kingdom",
+  "h1": "Finding a plumber in the UK",
+  "intro": "Across England, Scotland, Wales and Northern Ireland, the same few registers tell you who is qualified for gas and water work. Here's how they fit together.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1609210884848-2d530cfb2a07",
+    "alt": "Stainless steel kitchen sink with tap",
+    "credit": "Callum Hill",
+    "creditUrl": "https://unsplash.com/@inkyhills"
+  },
+  "search": false,
+  "heroHtml": "<p class=\"hero-cta\"><a class=\"finder-go as-link\" href=\"/find-a-plumber/\">Find a plumber in your area <span aria-hidden=\"true\">→</span></a></p>",
+  "highlights": [
+    {
+      "icon": "🛡",
+      "title": "Gas Safe Register",
+      "text": "Required for all gas work, including boilers."
+    },
+    {
+      "icon": "💧",
+      "title": "WaterSafe",
+      "text": "UK register of approved plumbers for water fittings."
+    },
+    {
+      "icon": "🏛",
+      "title": "Trade bodies",
+      "text": "Such as CIPHE, and SNIPEF in Scotland and Northern Ireland."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Regions you can search",
+      "html": "<p>Choose your area in the <a href=\"/find-a-plumber/\">plumber finder</a>: London, South East, South West, East of England, East Midlands, West Midlands, Yorkshire and the Humber, North West and North East England, plus Scotland, Wales and Northern Ireland.</p>"
+    },
+    {
+      "h2": "The registers that matter",
+      "html": "<ul><li><strong><a href=\"https://www.gassaferegister.co.uk/\" rel=\"noopener\" target=\"_blank\">Gas Safe Register</a>:</strong> the official list of businesses legally allowed to work on gas in Great Britain, Northern Ireland, the Isle of Man and Guernsey.</li><li><strong><a href=\"https://www.watersafe.org.uk/\" rel=\"noopener\" target=\"_blank\">WaterSafe</a>:</strong> brings together approved contractor schemes and is backed by UK water companies. Approved plumbers know the water fittings rules and can certify certain work.</li><li><strong>Trade bodies:</strong> the <a href=\"https://www.ciphe.org.uk/\" rel=\"noopener\" target=\"_blank\">Chartered Institute of Plumbing and Heating Engineering (CIPHE)</a>, and <a href=\"https://www.snipef.org/\" rel=\"noopener\" target=\"_blank\">SNIPEF</a> for Scotland and Northern Ireland.</li></ul>"
+    },
+    {
+      "h2": "Differences across the nations",
+      "html": "<p>England and Wales follow the Building Regulations and the Water Supply (Water Fittings) Regulations. Scotland has its own building standards and Scottish Water byelaws, and Northern Ireland has its own building and water fittings regulations. The registers above work across the UK, and a good plumber will know the rules where you live.</p>"
+    },
+    {
+      "h2": "Water and sewerage companies",
+      "html": "<p>Your water company is responsible for the public supply and sewers, and often for shared drains outside your boundary. For low pressure across your street, a leak in the road or a public sewer problem, contact your water company before booking a plumber.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a Gas Safe engineer or a plumber?",
+      "a": "For anything involving gas, such as boilers, gas fires, hobs and gas pipework, you need a Gas Safe registered engineer qualified for that appliance. For water-only work such as taps, toilets, leaks and drains, a plumber is fine."
+    },
+    {
+      "q": "Who do I call about low water pressure?",
+      "a": "If neighbours are affected too, contact your water company first. If it's just your home, a plumber can check your stopcock, pipework and fittings."
+    }
+  ],
+  "related": [
+    "boiler-repair",
+    "choosing-a-plumber",
+    "find-a-plumber"
+  ],
+  "keywords": [
+    "plumber uk",
+    "plumbers london",
+    "plumbers scotland",
+    "plumbers wales",
+    "plumbers northern ireland",
+    "gas safe",
+    "watersafe"
+  ],
+  "updated": "2026-10-14",
+  "cardText": "Across England, Scotland, Wales and Northern Ireland, the same few registers tell you who is qualified for gas and water work."
+}

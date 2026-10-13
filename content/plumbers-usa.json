@@ -1,0 +1,81 @@
+{
+  "slug": "plumbers-usa",
+  "title": "Plumbers in the USA: Licensing, Permits and States",
+  "description": "Finding a plumber in any US state: how plumbing licenses work, journeyman vs master plumbers, permits and inspections, insurance and comparing estimates.",
+  "nav": "USA guide",
+  "navOrder": 7,
+  "eyebrow": "United States",
+  "h1": "Finding a plumber in the USA",
+  "intro": "Plumbing in the US is regulated close to home, by your state and sometimes your city or county. Here's how licensing and permits work, and what to check.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1542013936693-884638332954",
+    "alt": "Person turning on a faucet",
+    "credit": "Jacek Dylag",
+    "creditUrl": "https://unsplash.com/@dylu"
+  },
+  "search": false,
+  "heroHtml": "<p class=\"hero-cta\"><a class=\"finder-go as-link\" href=\"/find-a-plumber/\">Find a plumber in your area <span aria-hidden=\"true\">→</span></a></p>",
+  "highlights": [
+    {
+      "icon": "🪪",
+      "title": "Licensing",
+      "text": "Mostly by state, sometimes by city or county."
+    },
+    {
+      "icon": "📝",
+      "title": "Permits",
+      "text": "Bigger jobs often need a permit and inspection."
+    },
+    {
+      "icon": "🛡",
+      "title": "Insurance",
+      "text": "Ask for proof of liability insurance."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "States you can search",
+      "html": "<p>The <a href=\"/find-a-plumber/\">plumber finder</a> covers all 50 states and the District of Columbia, grouped by Northeast, Midwest, South and West.</p>"
+    },
+    {
+      "h2": "How plumbing licenses work",
+      "html": "<p>Most states license plumbers through a state board, often with levels such as apprentice, journeyman and master plumber. A master plumber can usually run a plumbing business and pull permits. In some states licensing is handled locally by cities or counties instead.</p><p>Search your state's official licensing site for a \"plumbing license lookup\" to check a license number before you hire.</p>"
+    },
+    {
+      "h2": "Permits and inspections",
+      "html": "<p>Local building departments often need permits for water heater replacement, repiping, new fixtures in a remodel, gas lines and sewer work. Inspections check the work meets your local plumbing code. Unpermitted work can cause problems with insurance and when you sell your home.</p>"
+    },
+    {
+      "h2": "Insurance and bonding",
+      "html": "<p>Ask for proof of general liability insurance, and workers' compensation if the plumber has employees. Some states and cities also require contractors to be bonded.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What's the difference between a journeyman and a master plumber?",
+      "a": "In states that use these levels, a journeyman is licensed to do plumbing work, while a master plumber has more experience, has passed a further exam and can usually supervise others and run a business. Exact rules vary by state."
+    },
+    {
+      "q": "Who pulls the permit, me or the plumber?",
+      "a": "Usually the licensed plumber or contractor. Confirm it's included in the estimate."
+    }
+  ],
+  "related": [
+    "water-heater-repair",
+    "choosing-a-plumber",
+    "find-a-plumber"
+  ],
+  "keywords": [
+    "plumber usa",
+    "licensed plumber",
+    "plumbing license",
+    "master plumber",
+    "plumbing permit",
+    "plumber texas",
+    "plumber california",
+    "plumber florida",
+    "plumber new york"
+  ],
+  "updated": "2026-10-14",
+  "cardText": "Plumbing in the US is regulated close to home, by your state and sometimes your city or county."
+}

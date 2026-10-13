@@ -1,0 +1,81 @@
+{
+  "slug": "emergency-plumbers",
+  "title": "Emergency Plumbers: What to Do First (UK & USA)",
+  "description": "Burst pipe, leak or no water? The first steps to take, when it's a real emergency, gas safety numbers and how to find an emergency plumber you can trust.",
+  "nav": "Emergency",
+  "navOrder": 2,
+  "eyebrow": "Emergency plumbing",
+  "h1": "Emergency plumbers: what to do first",
+  "intro": "A few minutes of the right action can save thousands in water damage. Here's what to do before the plumber arrives, and how to pick one quickly but safely.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1526898943670-92bfa9f94c12",
+    "alt": "Water pouring out of a grey pipe",
+    "credit": "Daan Mooij",
+    "creditUrl": "https://unsplash.com/@daanmooij"
+  },
+  "search": false,
+  "heroHtml": "<p class=\"hero-cta\"><a class=\"finder-go as-link\" href=\"/find-a-plumber/\">Find a plumber in your area <span aria-hidden=\"true\">→</span></a></p>",
+  "highlights": [
+    {
+      "icon": "🚰",
+      "title": "Water off",
+      "text": "Stopcock (UK) or main shutoff valve (USA)."
+    },
+    {
+      "icon": "⚡",
+      "title": "Power off",
+      "text": "If water is near sockets, lights or the fuse box / breaker panel."
+    },
+    {
+      "icon": "🔥",
+      "title": "Smell gas?",
+      "text": "Leave, then call your gas emergency number from outside."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "First steps in a plumbing emergency",
+      "html": "<ul><li><strong>Turn off the water.</strong> In the UK the stopcock is often under the kitchen sink or where the pipe enters the house. In the USA the main shutoff valve is usually near the water meter, in a basement, crawl space or utility area.</li><li><strong>Switch off electricity</strong> at the consumer unit (UK) or breaker panel (USA) if water is near electrics, but only if you can reach it safely without standing in water.</li><li><strong>Drain the system</strong> by opening cold taps / faucets and flushing toilets once the water is off.</li><li><strong>Contain the water</strong> with towels and buckets, and move valuables.</li><li><strong>Take photos</strong> of the damage for your home insurer.</li></ul>"
+    },
+    {
+      "h2": "If you smell gas",
+      "html": "<div class=\"callout warn\"><p><strong>UK:</strong> call the National Gas Emergency Service on <a href=\"tel:0800111999\">0800 111 999</a> (Great Britain) or the Northern Ireland Gas Emergency Service on <a href=\"tel:0800002001\">0800 002 001</a>. Open doors and windows, don't use switches or naked flames, and turn off the gas at the meter if you can.</p><p><strong>USA:</strong> leave the building straight away, don't use switches, phones or anything that could spark inside, then call 911 or your gas utility from outside.</p></div><p>Only a Gas Safe registered engineer (UK) or a plumber or fitter licensed for gas work (USA) should repair gas appliances or pipework.</p>"
+    },
+    {
+      "h2": "Is it really an emergency?",
+      "html": "<p>Most plumbers treat these as emergencies: a burst pipe, water coming through a ceiling, no water at all, a sewage backup, or no heating or hot water for vulnerable people in cold weather. A dripping tap or slow drain can usually wait for normal hours, which are often cheaper.</p>"
+    },
+    {
+      "h2": "Choosing an emergency plumber quickly",
+      "html": "<ul><li>Ask for the <strong>call-out charge and hourly rate</strong> before they set off, including any out-of-hours premium.</li><li>Check registration (UK: <a href=\"https://www.gassaferegister.co.uk/\" rel=\"noopener\" target=\"_blank\">Gas Safe Register</a> for gas, <a href=\"https://www.watersafe.org.uk/\" rel=\"noopener\" target=\"_blank\">WaterSafe</a> for water) or licence (USA: your state or local licence lookup).</li><li>Be wary of anyone who demands full payment up front or quotes only once they've started.</li><li>Ask your home insurer: some policies include home emergency cover with an approved plumber.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where is my stopcock or main shutoff valve?",
+      "a": "In the UK it's commonly under the kitchen sink, in a downstairs toilet or cupboard, or where the supply enters the house. In the USA, check near the water meter, in the basement or crawl space, or where the main line enters. Find it before you need it."
+    },
+    {
+      "q": "Do emergency plumbers cost more?",
+      "a": "Often, yes. Many charge a call-out fee and higher rates at night, weekends and on holidays. Rates vary by firm and area, so ask before they come out."
+    },
+    {
+      "q": "Will my insurance cover a burst pipe?",
+      "a": "Many home insurance policies cover sudden water damage, and some include home emergency cover for the repair itself. Check your policy and call your insurer early."
+    }
+  ],
+  "related": [
+    "leaks-and-burst-pipes",
+    "find-a-plumber",
+    "choosing-a-plumber"
+  ],
+  "keywords": [
+    "emergency plumber",
+    "24 hour plumber",
+    "burst pipe",
+    "out of hours plumber",
+    "gas leak"
+  ],
+  "updated": "2026-10-14",
+  "cardText": "A few minutes of the right action can save thousands in water damage."
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "blocked-drains",
+  "title": "Blocked or Clogged Drains: When to Call a Plumber",
+  "description": "Blocked sink, clogged toilet or slow shower drain? Common causes, safe things to try, who is responsible for drains and sewers, and when you need a pro.",
+  "nav": "Drains",
+  "navOrder": 4,
+  "eyebrow": "Drains and sewers",
+  "h1": "Blocked and clogged drains",
+  "intro": "Slow sinks, gurgling plugholes and toilets that won't clear are some of the most common plumbing calls. Here's what causes them and who to call.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1654440122140-f1fc995ddb34",
+    "alt": "Close-up of a metal sink drain",
+    "credit": "Daniel Dan",
+    "creditUrl": "https://unsplash.com/@outsideclick"
+  },
+  "search": false,
+  "heroHtml": "<p class=\"hero-cta\"><a class=\"finder-go as-link\" href=\"/find-a-plumber/\">Find a plumber in your area <span aria-hidden=\"true\">→</span></a></p>",
+  "highlights": [
+    {
+      "icon": "🌍",
+      "title": "UK and USA",
+      "text": "Advice written for both, with the differences called out."
+    },
+    {
+      "icon": "📍",
+      "title": "Region first",
+      "text": "Choose your country and region before you compare."
+    },
+    {
+      "icon": "✔",
+      "title": "Check before you book",
+      "text": "The registers and licences to look for, in plain English."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What usually causes blockages",
+      "html": "<ul><li>Fats, oils and grease poured down the kitchen sink, which set in the pipes.</li><li>Wet wipes, sanitary products and cotton buds flushed down the toilet.</li><li>Hair and soap build-up in shower and bath drains.</li><li>Tree roots, collapsed or shifted pipes in older outside drains and sewer lines.</li></ul>"
+    },
+    {
+      "h2": "Safe things to try first",
+      "html": "<ul><li>Use a plunger on sinks and toilets (a cup plunger for sinks, a flange plunger for toilets).</li><li>Clear hair from shower and bath traps by hand or with a drain hair remover.</li><li>Remove and clean the trap under a sink, with a bucket underneath.</li><li>Be careful with chemical drain cleaners: follow the label, never mix products, and don't use them if a plumber may need to work on the pipe.</li></ul>"
+    },
+    {
+      "h2": "Who is responsible for drains and sewers?",
+      "html": "<p><strong>England and Wales:</strong> you're usually responsible for drains that serve only your property and are within your boundary. Shared drains and pipes outside your boundary are usually the responsibility of your water and sewerage company. In Scotland and Northern Ireland, check with Scottish Water or NI Water.</p><p><strong>USA:</strong> homeowners are often responsible for the sewer lateral from the house to the public main, but the rules vary by city. Check with your city or utility before work starts.</p>"
+    },
+    {
+      "h2": "When you need a professional",
+      "html": "<p>Call a plumber or drainage specialist if several drains are slow at once, water backs up in a shower or bath when you flush, there's a sewage smell, or an outside drain or manhole is overflowing. These often point to a problem further down the line that may need a camera survey or jetting.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are \"flushable\" wipes safe to flush?",
+      "a": "Many wipes don't break down like toilet paper and are a common cause of blockages. UK water companies advise flushing only pee, poo and paper. If in doubt, bin it."
+    },
+    {
+      "q": "What is a drain camera survey?",
+      "a": "A plumber or drainage firm sends a small camera down the pipe to see blockages, root intrusion or damage. It's useful before buying a home or when blockages keep coming back."
+    }
+  ],
+  "related": [
+    "leaks-and-burst-pipes",
+    "plumber-costs",
+    "find-a-plumber"
+  ],
+  "keywords": [
+    "blocked drain",
+    "clogged drain",
+    "blocked toilet",
+    "clogged toilet",
+    "drain unblocking",
+    "drain cleaning",
+    "sewer line"
+  ],
+  "updated": "2026-10-14",
+  "cardText": "Slow sinks, gurgling plugholes and toilets that won't clear are some of the most common plumbing calls."
+}

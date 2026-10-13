@@ -1,15 +1,174 @@
 {
   "slug": "",
-  "title": "LocalPlumbers: Compare and get introduced to local plumbers ",
-  "description": "Compare and get introduced to local plumbers in the UK and USA. Pick your country and region, then compare your options. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "LocalPlumbers",
-  "intro": "Compare and get introduced to local plumbers in the UK and USA. Pick your country and region, then compare your options.",
-  "related": [],
+  "title": "LocalPlumbers: Compare Local Plumbers in the UK & USA",
+  "description": "Choose your country and region, then compare ways to find a local plumber in the UK or USA. Free introductions, plain-English checks and no sign-up.",
+  "eyebrow": "UK and USA plumber finder",
+  "h1": "Find and compare local plumbers near you",
+  "intro": "Start with where you are. Pick the UK or USA, choose your region, tell us the job, and we'll show you how to compare plumbers in your area and get introduced.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1676210134188-4c05dd172f89",
+    "alt": "Plumber working on a pipe inside a wall",
+    "credit": "Timur Shakerzianov",
+    "creditUrl": "https://unsplash.com/@shaker_jpg"
+  },
+  "search": false,
+  "heroHtml": "<div class=\"finder\" id=\"finder-top\" data-finder><noscript><p>Turn on JavaScript to use the plumber finder, or read our guides to <a href=\"/plumbers-uk/\">plumbers in the UK</a> and <a href=\"/plumbers-usa/\">plumbers in the USA</a>.</p></noscript></div>",
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "globe",
+          "title": "UK and USA",
+          "text": "nations, regions and all 50 states"
+        },
+        {
+          "icon": "pin",
+          "title": "Region first",
+          "text": "pick where you are before you search"
+        },
+        {
+          "icon": "wallet",
+          "title": "Free to use",
+          "text": "no sign-up, no obligation"
+        },
+        {
+          "icon": "shield",
+          "title": "Checks built in",
+          "text": "registers and licences to look for"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "What do you need a plumber for?",
+      "intro": "Pick a job to learn what's involved, what to ask, and who is qualified to do it.",
+      "items": [
+        {
+          "slug": "emergency-plumbers",
+          "icon": "clock",
+          "badge": "24/7",
+          "cta": "Emergency help"
+        },
+        {
+          "slug": "leaks-and-burst-pipes",
+          "icon": "droplet",
+          "cta": "Stop the leak"
+        },
+        {
+          "slug": "blocked-drains",
+          "icon": "repeat",
+          "cta": "Clear the blockage"
+        },
+        {
+          "slug": "boiler-repair",
+          "icon": "sun",
+          "badge": "UK",
+          "cta": "Boilers and heating"
+        },
+        {
+          "slug": "water-heater-repair",
+          "icon": "sun",
+          "badge": "USA",
+          "cta": "Water heaters"
+        },
+        {
+          "slug": "bathroom-plumbing",
+          "icon": "star",
+          "cta": "Plan your project"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How LocalPlumbers works",
+      "items": [
+        {
+          "icon": "pin",
+          "title": "Choose your area",
+          "text": "Select the UK or USA, then your region, nation or state. Add your town if you like: it stays in your browser."
+        },
+        {
+          "icon": "search",
+          "title": "Tell us the job",
+          "text": "From a dripping tap to a new bathroom. Choose how soon you need help."
+        },
+        {
+          "icon": "users",
+          "title": "Compare and get introduced",
+          "text": "See your options for that area, including our quote partners where we have them."
+        },
+        {
+          "icon": "shield",
+          "title": "Check, then book",
+          "text": "Use the registers and licence checks we list before anyone starts work."
+        }
+      ]
+    }
+  ],
+  "highlightsTitle": "Why start here",
+  "highlights": [
+    {
+      "icon": "🧭",
+      "title": "Built for two markets",
+      "text": "UK and US plumbing work differently: Gas Safe and WaterSafe in the UK, state and local licensing in the USA. We keep them separate."
+    },
+    {
+      "icon": "⚖",
+      "title": "Compare, don't guess",
+      "text": "Quote marketplaces, review directories and local firms each have pros and cons. We lay them out side by side."
+    },
+    {
+      "icon": "🤝",
+      "title": "Honest introductions",
+      "text": "We're an introduction service, not a plumbing firm. We say when a link is a partner link, and never make up reviews or prices."
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use LocalPlumbers?",
-      "html": "<p>Compare and get introduced to local plumbers in the UK and USA. Pick your country and region, then compare your options.</p>"
+      "h2": "Ways to find a local plumber, compared",
+      "html": "<p>There's no single best route. It depends on how urgent the job is and how many quotes you want.</p><div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Route</th><th scope=\"col\">How it works</th><th scope=\"col\">Good for</th><th scope=\"col\">Watch out for</th></tr></thead><tbody><tr><th scope=\"row\">Quote marketplace</th><td>Post one request; several local plumbers contact you or send quotes.</td><td>Getting several quotes quickly for planned jobs.</td><td>Check each plumber yourself: being listed isn't the same as being qualified.</td></tr><tr><th scope=\"row\">Review directory</th><td>Browse plumbers with profiles and customer reviews, then contact the ones you like.</td><td>Comparing track records in your area.</td><td>Read recent reviews and check how the site verifies them.</td></tr><tr><th scope=\"row\">Official register</th><td>Search a register such as Gas Safe or WaterSafe (UK) or your state licence lookup (USA).</td><td>Confirming someone is qualified for the work.</td><td>Registers confirm qualifications, not price or availability.</td></tr><tr><th scope=\"row\">Local firm direct</th><td>Call a plumber you've used before or one recommended by neighbours.</td><td>Emergencies and repeat work.</td><td>Still ask for a written quote and check registration or licence.</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "UK or USA: what changes",
+      "html": "<p>In the <strong>UK</strong>, anyone working on gas appliances such as boilers must be on the <a href=\"https://www.gassaferegister.co.uk/\" rel=\"noopener\" target=\"_blank\">Gas Safe Register</a>. <a href=\"https://www.watersafe.org.uk/\" rel=\"noopener\" target=\"_blank\">WaterSafe</a> lists plumbers approved to work on water fittings. See <a href=\"/plumbers-uk/\">plumbers in the UK</a>.</p><p>In the <strong>USA</strong>, plumbers are usually licensed, mostly by the state and in some places by the city or county. Bigger jobs often need a permit and inspection. See <a href=\"/plumbers-usa/\">plumbers in the USA</a>.</p>"
     }
-  ]
+  ],
+  "faqs": [
+    {
+      "q": "Is LocalPlumbers free to use?",
+      "a": "Yes. The finder and guides are free and you don't need an account. If you use a partner link we may earn a referral fee from that partner, at no extra cost to you."
+    },
+    {
+      "q": "Are you a plumbing company?",
+      "a": "No. LocalPlumbers is a comparison and introduction service. We don't employ, train or vet plumbers, so always check registrations, licences and insurance before work starts."
+    },
+    {
+      "q": "Why do I have to choose a country and region first?",
+      "a": "The rules, registers and quote services are different in the UK and the USA, and they vary by nation and state. Choosing your area first means the advice and introductions you see apply where you live."
+    },
+    {
+      "q": "Do you store my postcode or ZIP code?",
+      "a": "No. The optional town or postcode field stays in your browser for this visit only and isn't sent to us."
+    },
+    {
+      "q": "What should I do in a plumbing emergency?",
+      "a": "Turn off your water at the stopcock (UK) or main shutoff valve (USA). If you smell gas, leave and call the gas emergency number: 0800 111 999 in Great Britain, 0800 002 001 in Northern Ireland, or 911 or your gas utility in the USA. Then see our <a href=\"/emergency-plumbers/\">emergency plumber guide</a>."
+    }
+  ],
+  "related": [
+    "plumbers-uk",
+    "plumbers-usa",
+    "choosing-a-plumber"
+  ],
+  "relatedTitle": "Start with the basics",
+  "keywords": [
+    "plumber near me",
+    "local plumber",
+    "compare plumbers",
+    "find a plumber"
+  ],
+  "updated": "2026-10-14",
+  "cardText": "Start with where you are."
 }

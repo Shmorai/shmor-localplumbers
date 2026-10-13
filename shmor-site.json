@@ -6,8 +6,8 @@
   "order": 250,
   "status": "building",
   "icon": "droplet",
-  "accent": "#3B82F6",
-  "blurb": "Compare and get introduced to local plumbers in the UK and USA. Pick your country and region, then compare your options.",
+  "accent": "#D2733A",
+  "blurb": "Compare and get introduced to local plumbers in the UK and USA. Pick your country and region first, then compare your options.",
   "keywords": [
     "plumber",
     "plumbers",
@@ -51,15 +51,45 @@
     "watersafe"
   ],
   "fallback": "",
-  "popular": [],
+  "popular": [
+    {
+      "label": "Plumbers near you",
+      "q": "plumber near me"
+    },
+    {
+      "label": "Emergency plumbers",
+      "q": "emergency plumber"
+    },
+    {
+      "label": "Boiler repair (UK)",
+      "q": "boiler repair"
+    }
+  ],
   "offers": [],
   "links": {},
   "seo": {
     "siteName": "LocalPlumbers",
-    "description": "Compare and get introduced to local plumbers in the UK and USA. Pick your country and region, then compare your options.",
+    "description": "Compare and get introduced to local plumbers in the UK and USA. Choose your country and region, then compare ways to find a plumber you can trust.",
     "locale": "en",
     "ogLocale": "en_GB",
-    "themeColor": "#0A0C0E",
-    "searchPlaceholder": "What are you looking for?"
+    "themeColor": "#0D2238",
+    "searchPlaceholder": "Search plumbing guides, e.g. boiler, blocked drain",
+    "ctaTitle": "Search our plumbing guides",
+    "fontsUrl": "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Inter:wght@400;500;600;700;800&display=swap"
+  },
+  "card": {
+    "image": {
+      "src": "https://images.unsplash.com/photo-1676210134188-4c05dd172f89",
+      "alt": "Plumber working on a pipe inside a wall",
+      "credit": "Timur Shakerzianov",
+      "creditUrl": "https://unsplash.com/@shaker_jpg"
+    },
+    "logo": "<svg viewBox=\"0 0 40 40\" aria-hidden=\"true\"><rect width=\"40\" height=\"40\" rx=\"11\" fill=\"#0D2238\"/><path d=\"M9 12h11a6 6 0 0 1 6 6v4\" fill=\"none\" stroke=\"#D2733A\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M26 25.5c0 0-4 4.4-4 7a4 4 0 0 0 8 0c0-2.6-4-7-4-7z\" fill=\"#5B9BFF\"/></svg>",
+    "accent": "#C35F25",
+    "wordmark": [
+      "Local",
+      "Plumbers"
+    ],
+    "wordmarkColor": "#F2A06D"
   }
 }

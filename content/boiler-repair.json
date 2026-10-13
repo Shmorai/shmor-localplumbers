@@ -1,0 +1,88 @@
+{
+  "slug": "boiler-repair",
+  "title": "Boiler Repair and Servicing in the UK: Gas Safe Guide",
+  "description": "Boiler not working, no heating or hot water? Simple checks to try, why Gas Safe registration matters, servicing, carbon monoxide safety and getting quotes.",
+  "nav": "Boilers & heating",
+  "navOrder": 3,
+  "eyebrow": "UK: boilers and central heating",
+  "h1": "Boiler repair, servicing and central heating",
+  "intro": "Most UK homes heat water and radiators with a gas boiler. Here's what you can safely check yourself, and why only a Gas Safe registered engineer should work on it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39",
+    "alt": "Black and grey metal heating pipes",
+    "credit": "Compagnons",
+    "creditUrl": "https://unsplash.com/@sigmund"
+  },
+  "search": false,
+  "heroHtml": "<p class=\"hero-cta\"><a class=\"finder-go as-link\" href=\"/find-a-plumber/\">Find a plumber in your area <span aria-hidden=\"true\">→</span></a></p>",
+  "highlights": [
+    {
+      "icon": "🛡",
+      "title": "Gas Safe only",
+      "text": "It's the law for anyone working on gas appliances."
+    },
+    {
+      "icon": "📅",
+      "title": "Service yearly",
+      "text": "Most manufacturers recommend an annual service."
+    },
+    {
+      "icon": "⚠",
+      "title": "CO alarm",
+      "text": "Fit a carbon monoxide alarm near fuel-burning appliances."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Simple checks before you call",
+      "html": "<ul><li>Is the gas supply on, and do other gas appliances work?</li><li>Is the boiler showing a fault code? Look it up in the manual.</li><li>Is the pressure gauge in the range the manual gives? Low pressure is a common cause of combi boilers stopping. Many manuals explain how to top it up.</li><li>Are the thermostat, timer and any smart controls set correctly, with working batteries?</li><li>In freezing weather, a frozen condensate pipe can stop condensing boilers. Some manufacturers explain how to thaw it safely with warm (not boiling) water.</li></ul><div class=\"callout warn\"><p>Never remove the boiler casing or try to repair gas parts yourself. If you smell gas, call <a href=\"tel:0800111999\">0800 111 999</a> (Great Britain) or <a href=\"tel:0800002001\">0800 002 001</a> (Northern Ireland).</p></div>"
+    },
+    {
+      "h2": "Why Gas Safe registration matters",
+      "html": "<p>By law, anyone working on gas appliances in Great Britain, Northern Ireland, the Isle of Man and Guernsey must be on the <a href=\"https://www.gassaferegister.co.uk/\" rel=\"noopener\" target=\"_blank\">Gas Safe Register</a>. Check the business on the register and ask to see the engineer's ID card. The back of the card lists the kinds of gas work they're qualified to do, such as boilers or cookers.</p>"
+    },
+    {
+      "h2": "Servicing and landlords",
+      "html": "<p>A service checks the boiler is working safely and efficiently, and many manufacturers need one each year to keep the warranty valid. Landlords must have gas appliances they provide checked every 12 months by a Gas Safe registered engineer and give tenants a copy of the gas safety record.</p>"
+    },
+    {
+      "h2": "Carbon monoxide",
+      "html": "<p>A faulty boiler can produce carbon monoxide (CO), which you can't see or smell. Symptoms include headaches, dizziness, nausea, breathlessness and tiredness. Fit an audible CO alarm, and if you suspect CO, get fresh air, turn off the appliance if you can, call the gas emergency number and seek medical advice.</p>"
+    },
+    {
+      "h2": "Repair or replace?",
+      "html": "<p>Ask engineers for written quotes for both repair and replacement if your boiler is older or keeps breaking down. Compare the parts warranty, labour guarantee, the boiler's efficiency rating and whether the quote includes system cleaning and controls. Government schemes for heat pumps and efficiency upgrades change over time, so check GOV.UK for what's currently available.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a plumber fix my boiler?",
+      "a": "Only if they're also a Gas Safe registered engineer qualified for that type of appliance. Many plumbers are, but always check the register and their ID card."
+    },
+    {
+      "q": "How often should a boiler be serviced?",
+      "a": "Most manufacturers recommend once a year. Check your boiler's manual and warranty terms."
+    },
+    {
+      "q": "My boiler is in the USA. Is this guide for me?",
+      "a": "This page covers UK gas boilers. If you're in the USA, see our <a href=\"/water-heater-repair/\">water heater guide</a> and <a href=\"/plumbers-usa/\">plumbers in the USA</a>."
+    }
+  ],
+  "related": [
+    "plumbers-uk",
+    "emergency-plumbers",
+    "plumber-costs"
+  ],
+  "keywords": [
+    "boiler repair",
+    "boiler service",
+    "boiler installation",
+    "gas safe",
+    "no heating",
+    "no hot water",
+    "central heating repair",
+    "combi boiler"
+  ],
+  "updated": "2026-10-14",
+  "cardText": "Most UK homes heat water and radiators with a gas boiler."
+}

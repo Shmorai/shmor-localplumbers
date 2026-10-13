@@ -1,0 +1,72 @@
+{
+  "slug": "bathroom-plumbing",
+  "title": "Bathroom and Kitchen Plumbing: Planning Your Project",
+  "description": "Planning a new bathroom, shower or kitchen? What the plumber does, permits and regulations in the UK and USA, and how to get comparable quotes for the work.",
+  "nav": "Bathrooms & kitchens",
+  "eyebrow": "Installations and remodels",
+  "h1": "Bathroom and kitchen plumbing projects",
+  "intro": "New bathrooms, showers and kitchens involve more than fitting taps. Here's how to plan the plumbing, what rules apply, and how to compare quotes like-for-like.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1749532125405-70950966b0e5",
+    "alt": "Plumber repairing plumbing in a bathroom",
+    "credit": "bhagya laxmi",
+    "creditUrl": "https://unsplash.com/@bhagya_laxmi"
+  },
+  "search": false,
+  "heroHtml": "<p class=\"hero-cta\"><a class=\"finder-go as-link\" href=\"/find-a-plumber/\">Find a plumber in your area <span aria-hidden=\"true\">→</span></a></p>",
+  "highlights": [
+    {
+      "icon": "🌍",
+      "title": "UK and USA",
+      "text": "Advice written for both, with the differences called out."
+    },
+    {
+      "icon": "📍",
+      "title": "Region first",
+      "text": "Choose your country and region before you compare."
+    },
+    {
+      "icon": "✔",
+      "title": "Check before you book",
+      "text": "The registers and licences to look for, in plain English."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What the plumber typically does",
+      "html": "<ul><li>First fix: running new supply and waste pipes before walls and floors are closed up.</li><li>Second fix: connecting sinks, toilets, showers, baths, appliances and fittings.</li><li>Checking water pressure and flow suit the shower or fittings you've chosen.</li><li>Testing for leaks and making sure waste pipes have the right fall.</li></ul>"
+    },
+    {
+      "h2": "Rules and permits",
+      "html": "<p><strong>UK:</strong> some work must meet Building Regulations (building standards in Scotland), for example new drainage, some electrical work in bathrooms and unvented hot water cylinders. Water fittings must meet water regulations. A <a href=\"https://www.watersafe.org.uk/\" rel=\"noopener\" target=\"_blank\">WaterSafe</a> approved plumber can certify certain work.</p><p><strong>USA:</strong> remodels that move or add plumbing usually need a permit and inspection under your local plumbing code. Your licensed plumber or general contractor normally handles this.</p>"
+    },
+    {
+      "h2": "Getting comparable quotes",
+      "html": "<ul><li>Share the same drawings or list of fittings with every plumber.</li><li>Ask what's included: removal of old fittings, making good, tiling, electrics, waste disposal.</li><li>Check who supplies the fittings, and who is responsible if a part is faulty.</li><li>Agree a payment schedule tied to stages of work, not a large upfront payment.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a plumber or a bathroom fitter?",
+      "a": "Many bathroom fitters do plumbing, tiling and carpentry. For bigger jobs or moving pipes and drains, make sure whoever does the plumbing is suitably registered (UK) or licensed (USA)."
+    },
+    {
+      "q": "Can I buy my own fittings?",
+      "a": "Often, yes, but agree it with your plumber first. Some won't guarantee work with customer-supplied parts."
+    }
+  ],
+  "related": [
+    "plumber-costs",
+    "choosing-a-plumber",
+    "find-a-plumber"
+  ],
+  "keywords": [
+    "bathroom plumbing",
+    "shower installation",
+    "kitchen plumbing",
+    "bathroom remodel",
+    "bathroom fitter"
+  ],
+  "updated": "2026-10-14",
+  "cardText": "New bathrooms, showers and kitchens involve more than fitting taps."
+}

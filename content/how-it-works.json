@@ -1,0 +1,82 @@
+{
+  "slug": "how-it-works",
+  "title": "How LocalPlumbers Works: Free Plumber Introductions",
+  "description": "How LocalPlumbers compares ways to find a plumber in the UK and USA, how introductions and partner links work, what we check and what you should check yourself.",
+  "nav": "How it works",
+  "navOrder": 8,
+  "eyebrow": "About LocalPlumbers",
+  "h1": "How LocalPlumbers works",
+  "intro": "LocalPlumbers helps you compare your options and get introduced to plumbers in your area. Here's exactly what we do, what we don't, and how we make money.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1694827893591-af9b80361599",
+    "alt": "A pair of copper pipes on a wall",
+    "credit": "Kelsey Todd",
+    "creditUrl": "https://unsplash.com/@sparkledump"
+  },
+  "search": false,
+  "heroHtml": "<p class=\"hero-cta\"><a class=\"finder-go as-link\" href=\"/find-a-plumber/\">Find a plumber in your area <span aria-hidden=\"true\">→</span></a></p>",
+  "blocks": [
+    {
+      "type": "steps",
+      "title": "Four steps",
+      "items": [
+        {
+          "icon": "pin",
+          "title": "Choose your area",
+          "text": "UK or USA first, then your region, nation or state."
+        },
+        {
+          "icon": "search",
+          "title": "Describe the job",
+          "text": "Pick the job type and how soon you need help."
+        },
+        {
+          "icon": "users",
+          "title": "Compare routes",
+          "text": "See quote partners for your area, registers and guides."
+        },
+        {
+          "icon": "shield",
+          "title": "Check and book",
+          "text": "Check credentials, compare written quotes, then book."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What we do",
+      "html": "<ul><li>Organise plumbing advice by country and region so it applies where you live.</li><li>Compare the main ways to find a plumber: quote marketplaces, review directories, official registers and local firms.</li><li>Introduce you to quote partners that cover your area, when we have them.</li></ul>"
+    },
+    {
+      "h2": "What we don't do",
+      "html": "<ul><li>We don't employ, train, vet or guarantee plumbers.</li><li>We don't publish made-up prices, ratings or reviews.</li><li>We don't collect your address. The optional town or postcode in the finder stays in your browser.</li></ul>"
+    },
+    {
+      "h2": "How we make money",
+      "html": "<p>Some links go to partners who may pay us a referral fee if you use their service. That never changes what you pay. Partner links are marked and use our <a href=\"https://shmor.ai/affiliate-disclosure/\">Shmor.ai affiliate disclosure</a>. LocalPlumbers is part of the <a href=\"https://shmor.ai/\">Shmor.ai</a> network.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who runs LocalPlumbers?",
+      "a": "LocalPlumbers is part of the Shmor.ai network of comparison sites. See <a href=\"https://shmor.ai/about/\">About Shmor.ai</a>."
+    },
+    {
+      "q": "I'm a plumber. Can I be listed?",
+      "a": "We're building partnerships with quote services across the UK and USA. Get in touch through <a href=\"https://shmor.ai/contact/\">Shmor.ai contact</a>."
+    }
+  ],
+  "related": [
+    "find-a-plumber",
+    "choosing-a-plumber",
+    "plumber-costs"
+  ],
+  "keywords": [
+    "how it works",
+    "plumber introductions",
+    "about localplumbers"
+  ],
+  "updated": "2026-10-14",
+  "cardText": "LocalPlumbers helps you compare your options and get introduced to plumbers in your area."
+}

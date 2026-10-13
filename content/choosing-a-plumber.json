@@ -1,0 +1,72 @@
+{
+  "slug": "choosing-a-plumber",
+  "title": "How to Choose a Plumber: Checks, Questions, Red Flags",
+  "description": "How to choose a plumber you can trust in the UK or USA: registers and licences to check, insurance, questions to ask before booking and warning signs to avoid.",
+  "nav": "Choosing a plumber",
+  "eyebrow": "Hiring guide",
+  "h1": "How to choose a plumber",
+  "intro": "A good plumber is qualified for the job, insured, clear about price and happy to put it in writing. Here's how to check, wherever you live.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1676210134050-6f12c6898395",
+    "alt": "Plumber in red gloves working on a toilet",
+    "credit": "Timur Shakerzianov",
+    "creditUrl": "https://unsplash.com/@shaker_jpg"
+  },
+  "search": false,
+  "heroHtml": "<p class=\"hero-cta\"><a class=\"finder-go as-link\" href=\"/find-a-plumber/\">Find a plumber in your area <span aria-hidden=\"true\">→</span></a></p>",
+  "highlights": [
+    {
+      "icon": "🌍",
+      "title": "UK and USA",
+      "text": "Advice written for both, with the differences called out."
+    },
+    {
+      "icon": "📍",
+      "title": "Region first",
+      "text": "Choose your country and region before you compare."
+    },
+    {
+      "icon": "✔",
+      "title": "Check before you book",
+      "text": "The registers and licences to look for, in plain English."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Checks to make",
+      "html": "<div class=\"table-wrap\"><table><thead><tr><th scope=\"col\">Check</th><th scope=\"col\">UK</th><th scope=\"col\">USA</th></tr></thead><tbody><tr><th scope=\"row\">Qualified for gas work</th><td><a href=\"https://www.gassaferegister.co.uk/\" rel=\"noopener\" target=\"_blank\">Gas Safe Register</a> (ID card lists appliance types)</td><td>Licensed for gas work under state or local rules</td></tr><tr><th scope=\"row\">Qualified for water work</th><td><a href=\"https://www.watersafe.org.uk/\" rel=\"noopener\" target=\"_blank\">WaterSafe</a> approved plumber, or trade body membership</td><td>State or local plumbing license (apprentice, journeyman or master)</td></tr><tr><th scope=\"row\">Insurance</th><td>Public liability insurance</td><td>General liability, plus workers' compensation if they have employees</td></tr><tr><th scope=\"row\">Paperwork</th><td>Written quote, and certificates for notifiable work</td><td>Written estimate, and permits where needed</td></tr></tbody></table></div>"
+    },
+    {
+      "h2": "Questions to ask",
+      "html": "<ul><li>Have you done this type of job before? Can I see examples or references?</li><li>Is your quote fixed, or an estimate? What could change it?</li><li>Who will do the work: you, an employee or a subcontractor?</li><li>What guarantee or warranty comes with the work and the parts?</li><li>Will you handle any certification, notification or permits?</li></ul>"
+    },
+    {
+      "h2": "Red flags",
+      "html": "<ul><li>Cold calls or door-knocking offering urgent work.</li><li>Pressure to decide on the spot, or \"today only\" prices.</li><li>Cash-only with no receipt, or a large payment before work starts.</li><li>No landline, address or business details.</li><li>Unwilling to show a registration card or licence number.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are online reviews reliable?",
+      "a": "They help, but look for a pattern across several sites, read recent reviews and check how the site verifies them. Combine reviews with registration and licence checks."
+    },
+    {
+      "q": "Do plumbers need a licence in the UK?",
+      "a": "There's no general licence for plumbing in the UK, but gas work must be done by a Gas Safe registered engineer, and some water and building work must meet regulations and be certified."
+    }
+  ],
+  "related": [
+    "plumbers-uk",
+    "plumbers-usa",
+    "plumber-costs"
+  ],
+  "keywords": [
+    "choose a plumber",
+    "hire a plumber",
+    "trusted plumber",
+    "licensed plumber",
+    "plumber checks"
+  ],
+  "updated": "2026-10-14",
+  "cardText": "A good plumber is qualified for the job, insured, clear about price and happy to put it in writing."
+}

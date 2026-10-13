@@ -1,0 +1,52 @@
+{
+  "slug": "find-a-plumber",
+  "title": "Find a Plumber Near You: UK & USA Plumber Finder",
+  "description": "Select the UK or USA, your region or state and the job, then get a plan: who to contact, what to check and the quote partners that cover your area.",
+  "nav": "Find a plumber",
+  "navOrder": 1,
+  "eyebrow": "Plumber finder",
+  "h1": "Find a plumber in your area",
+  "intro": "Choose your country, region and job. We'll build a short plan for your area: how to get introduced, what to check and which guides to read.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1676210133055-eab6ef033ce3",
+    "alt": "Plumber fixing pipework in a kitchen cabinet",
+    "credit": "Timur Shakerzianov",
+    "creditUrl": "https://unsplash.com/@shaker_jpg"
+  },
+  "search": false,
+  "heroHtml": "<div class=\"finder\" id=\"finder-top\" data-finder><noscript><p>Turn on JavaScript to use the plumber finder, or read our guides to <a href=\"/plumbers-uk/\">plumbers in the UK</a> and <a href=\"/plumbers-usa/\">plumbers in the USA</a>.</p></noscript></div><div class=\"plan\" data-finder-result hidden aria-live=\"polite\"></div>",
+  "partnersTitle": "Get quotes from local plumbers",
+  "sections": [
+    {
+      "h2": "How the finder works",
+      "html": "<p>The finder asks four things: your country, your region, nation or state, the job and how soon you need help. Your town or postcode is optional and stays in your browser.</p><p>You then get a plan with three parts: how to get introduced to plumbers in your area, the checks to make before you book, and the guides for your job.</p>"
+    },
+    {
+      "h2": "Regions we cover",
+      "html": "<p><strong>UK:</strong> London, South East, South West, East of England, East Midlands, West Midlands, Yorkshire and the Humber, North West, North East, Scotland, Wales and Northern Ireland.</p><p><strong>USA:</strong> all 50 states and the District of Columbia, grouped by Northeast, Midwest, South and West.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will plumbers contact me straight away?",
+      "a": "Not from the finder itself. It shows you your options. You only share details with a plumber or quote service if you choose to contact them."
+    },
+    {
+      "q": "Can I search for an emergency plumber?",
+      "a": "Yes. Choose \"Emergency: today\" and your plan starts with the safety steps to take first, including gas emergency numbers for your area."
+    }
+  ],
+  "related": [
+    "emergency-plumbers",
+    "choosing-a-plumber",
+    "plumber-costs"
+  ],
+  "keywords": [
+    "find a plumber",
+    "plumber near me",
+    "plumbers in my area",
+    "local plumber"
+  ],
+  "updated": "2026-10-14",
+  "cardText": "Choose your country, region and job."
+}

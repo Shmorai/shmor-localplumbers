@@ -1,0 +1,78 @@
+{
+  "slug": "leaks-and-burst-pipes",
+  "title": "Leaks and Burst Pipes: Causes, Fixes and Who to Call",
+  "description": "Dripping taps and faucets, leaking toilets, hidden leaks and burst or frozen pipes: what causes them, what you can safely check, and when to call a plumber.",
+  "nav": "Leaks & burst pipes",
+  "eyebrow": "Leaks",
+  "h1": "Leaks and burst pipes",
+  "intro": "From a dripping tap to a burst pipe in a cold snap, leaks waste water and can cause serious damage. Here's how to spot them and when you need a plumber.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1596394723269-b2cbca4e6313",
+    "alt": "Water drop on a brass pipe",
+    "credit": "Elimende Inagella",
+    "creditUrl": "https://unsplash.com/@elimendeinagella"
+  },
+  "search": false,
+  "heroHtml": "<p class=\"hero-cta\"><a class=\"finder-go as-link\" href=\"/find-a-plumber/\">Find a plumber in your area <span aria-hidden=\"true\">→</span></a></p>",
+  "highlights": [
+    {
+      "icon": "🌍",
+      "title": "UK and USA",
+      "text": "Advice written for both, with the differences called out."
+    },
+    {
+      "icon": "📍",
+      "title": "Region first",
+      "text": "Choose your country and region before you compare."
+    },
+    {
+      "icon": "✔",
+      "title": "Check before you book",
+      "text": "The registers and licences to look for, in plain English."
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Common types of leak",
+      "html": "<ul><li><strong>Dripping taps / faucets:</strong> usually a worn washer, cartridge or O-ring.</li><li><strong>Running toilets:</strong> often a worn flapper or fill valve, or a faulty flush valve seal.</li><li><strong>Leaking joints:</strong> under sinks, at appliance connections, or on radiator valves (UK).</li><li><strong>Hidden leaks:</strong> stains on ceilings or walls, damp patches, mould or a water meter that moves when everything is off.</li><li><strong>Burst pipes:</strong> often caused by freezing, corrosion or physical damage.</li></ul>"
+    },
+    {
+      "h2": "Quick checks you can do",
+      "html": "<p>Turn off every tap and water-using appliance and look at your water meter. If it keeps moving, water is escaping somewhere. A few drops of food colouring in a toilet cistern (tank) that appear in the bowl without flushing point to a leaking flush seal.</p>"
+    },
+    {
+      "h2": "Preventing frozen pipes",
+      "html": "<ul><li>Insulate (lag) pipes in lofts, garages, basements and crawl spaces.</li><li>Keep the heating on low when you're away in cold weather.</li><li>Know where your stopcock or main shutoff valve is.</li><li>Never thaw a frozen pipe with a naked flame. Use gentle heat such as a hot water bottle or hair dryer, and call a plumber if you're unsure.</li></ul>"
+    },
+    {
+      "h2": "When to call a plumber",
+      "html": "<p>Call a plumber for burst pipes, leaks you can't see or reach, leaks near electrics, anything involving gas appliances, and repeated leaks at the same place. Your plan in the <a href=\"/find-a-plumber/\">plumber finder</a> lists who to check for your area.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a dripping tap or faucet wait?",
+      "a": "Usually, yes, but it wastes water and tends to get worse. It's a good job to book at a normal time rather than as an emergency."
+    },
+    {
+      "q": "How do I know if I have a hidden leak?",
+      "a": "Signs include damp patches, stains, mould, a musty smell, the sound of running water, low pressure or a water meter that moves while nothing is in use."
+    }
+  ],
+  "related": [
+    "emergency-plumbers",
+    "blocked-drains",
+    "plumber-costs"
+  ],
+  "keywords": [
+    "leaking pipe",
+    "burst pipe",
+    "frozen pipes",
+    "leaking tap",
+    "dripping faucet",
+    "running toilet",
+    "water leak"
+  ],
+  "updated": "2026-10-14",
+  "cardText": "From a dripping tap to a burst pipe in a cold snap, leaks waste water and can cause serious damage."
+}
