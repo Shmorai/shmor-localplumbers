@@ -49,7 +49,7 @@ LocalPlumbers is an introduction service: it doesn't employ, vet or guarantee pl
 
 ## History & decisions
 - 2026-10-14: created at the user's request: "comparison and introductions to local plumbers for the UK and USA market, with the option to select country, region etc before search, with a different design from the other sites". Kit improvements made at the same time (copied into every site): page field `"heroHtml"` (raw HTML under the hero intro) and `droplet` + `globe` block icons (the `globe` fix also restored a missing icon on PetSavings' trust bar).
-- Chat setup: this site should have its own pinned chat titled "LocalPlumbers".
+- Chat setup: this site has its own pinned chat titled "LocalPlumbers".
 
 ## Ideas / next
 Referral links (UK + US quote partners) · a blog answering seasonal searches (frozen pipes in winter, boiler checks before winter, sump pumps in spring) researched against official sources · city pages (e.g. plumbers in London, Manchester, New York, Houston) only with genuinely local content (water company, local licensing body, permit office).
