@@ -401,3 +401,21 @@ section h2 { color: var(--ink); font-weight: 800; }
 :focus-visible { outline-color: var(--accent-2); }
 .hero-cta { margin: 26px 0 0; }
 a.finder-go { display: inline-flex; width: auto; padding: 14px 22px; text-decoration: none; margin-top: 0; }
+
+/* Menu folds into the menu button when it doesn't fit (set by site.js) */
+.nav-compact .menu { display: block; }
+.nav-compact .nav { display: none; position: absolute; left: 0; right: 0; top: 100%; flex-direction: column; gap: 0; background: var(--surface); border-bottom: 1px solid var(--line); padding: 8px 20px 16px; box-shadow: 0 12px 30px rgba(0,0,0,.18); z-index: 60; }
+.nav-compact .nav.open { display: flex; }
+.nav-compact .nav a { padding: 12px 0; border-bottom: 1px solid var(--line); }
+
+/* Let article columns shrink so wide tables scroll inside their box instead of widening the page */
+.content-grid > * { min-width: 0; }
+
+/* Very small phones (≤360px): keep logo, UK/USA switch and menu button on one line */
+@media (max-width: 360px) {
+  .site-header .bar { padding-left: 12px; padding-right: 12px; gap: 6px; }
+  .brand { gap: 7px; }
+  .brand-mark { width: 28px; height: 28px; }
+  .brand-word { font-size: 18px; }
+  .bar-end { gap: 6px; }
+}
