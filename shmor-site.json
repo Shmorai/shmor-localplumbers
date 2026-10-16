@@ -4,7 +4,7 @@
   "name": "LocalPlumbers",
   "subdomain": "localplumbers",
   "order": 250,
-  "status": "building",
+  "status": "live",
   "icon": "droplet",
   "accent": "#D2733A",
   "blurb": "Compare and get introduced to local plumbers in the UK and USA. Pick your country and region first, then compare your options.",
