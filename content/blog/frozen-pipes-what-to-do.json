@@ -1,0 +1,83 @@
+{
+  "updated": "2026-11-19",
+  "date": "2026-11-19",
+  "type": "post",
+  "slug": "blog/frozen-pipes-what-to-do",
+  "title": "Frozen Pipes: What to Do and When to Call a Plumber",
+  "description": "Frozen or burst pipes this winter? Step-by-step advice for UK and US homes on turning off water, thawing safely and when to call a plumber.",
+  "h1": "Frozen pipes: what to do, and when to call a plumber",
+  "eyebrow": "Winter plumbing · UK & USA",
+  "intro": "A hard freeze can leave you with no water, or a burst pipe once things thaw. Acting quickly and safely limits the damage. Here is what the UK Met Office and the American Red Cross advise.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39",
+    "alt": "Black and grey metal heating pipes",
+    "credit": "Compagnons",
+    "creditUrl": "https://unsplash.com/@sigmund"
+  },
+  "keywords": [
+    "frozen pipes",
+    "frozen pipes what to do",
+    "how to thaw frozen pipes",
+    "burst pipe what to do",
+    "frozen pipes uk",
+    "frozen pipes usa",
+    "prevent frozen pipes",
+    "stop tap location",
+    "emergency plumber burst pipe"
+  ],
+  "cardText": "How to prevent, thaw and deal with frozen and burst pipes, for UK and US homes.",
+  "sections": [
+    {
+      "h2": "First, find your stop tap or main shut-off",
+      "html": "<p>Whatever happens, you need to be able to stop the water fast. In the UK this is the <strong>stop tap</strong>, usually under the kitchen sink but sometimes in a downstairs bathroom, garage, cellar or under the stairs. The Met Office suggests checking it works every six months. In the US it is the <strong>main water shut-off valve</strong>, and FEMA advises knowing where the valves are before an emergency.</p><p>Do it now, not when water is coming through the ceiling.</p>"
+    },
+    {
+      "h2": "How to prevent frozen pipes",
+      "html": "<ul><li><strong>Insulate</strong> pipes in lofts, garages, cellars and other cold spaces, and have your boiler serviced (Met Office).</li><li><strong>Keep heating on low</strong> if you go away, and ask a neighbour to look in now and then (Met Office).</li><li><strong>Open cabinet doors</strong> under kitchen and bathroom sinks so warmer room air can reach the pipes (American Red Cross).</li><li><strong>Let a tap trickle</strong> during a deep freeze in the US: the Red Cross says even a trickle of running water helps stop pipes freezing. This wastes water, so only do it when a hard freeze is forecast.</li></ul>"
+    },
+    {
+      "h2": "If a pipe is frozen but not burst",
+      "html": "<ol><li>Turn off the <strong>stop tap</strong> straight away.</li><li>Open all taps to drain the system, keeping a bucket of water for flushing and washing, then close them when the flow stops.</li><li>Thaw the pipe <strong>slowly</strong> with hot water bottles or towels soaked in hot water.</li><li><strong>Never use a naked flame or blowtorch.</strong> The Met Office warns it can permanently damage pipes and cause a fire.</li><li>Call a plumber if you cannot find or reach the frozen section.</li></ol><p>In the US, the Red Cross suggests thawing with a hair dryer or warm water and also warns against open flames.</p>"
+    },
+    {
+      "h2": "If a pipe has burst",
+      "html": "<ol><li>Turn off the water at the stop tap or main valve and <strong>switch off your boiler</strong> (UK advice).</li><li>Open all taps to drain the system quickly.</li><li>Soak up water with towels to limit damage.</li><li>If water has reached electrics, do not touch them and switch off at the fuse box.</li><li>Call an approved plumber, and photograph the damage for your insurer.</li></ol><p>The CDC's winter weather guidance also says to shut off the main water valve immediately if a pipe bursts. See our guide to <a href=\"/leaks-and-burst-pipes/\">leaks and burst pipes</a> and the <a href=\"/emergency-plumbers/\">emergency plumbers</a> page for what to expect.</p>"
+    },
+    {
+      "h2": "Choosing the right plumber",
+      "html": "<p>In the UK, the Met Office recommends a <strong>WaterSafe</strong>-approved plumber, which you can find through watersafe.org.uk or on 0333 207 9030. Note down a number before winter and keep it near the boiler or stop tap. For gas appliances you also need a Gas Safe registered engineer. In the US, check your state or city licensing lookup and insurance.</p><p>Not sure where to start? Use the <a href=\"/find-a-plumber/\">plumber finder</a> to pick your country and region, then read <a href=\"/choosing-a-plumber/\">how to choose a plumber</a> and what <a href=\"/plumber-costs/\">affects plumbing costs</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I use the heating to thaw a frozen pipe?",
+      "a": "No. Water in a frozen pipe has nowhere to go, so the Met Office advises thawing it gently with hot water bottles or warm towels, never with a naked flame or blowtorch."
+    },
+    {
+      "q": "Where is my stop tap?",
+      "a": "Usually under the kitchen sink, but it can be in a downstairs bathroom, kitchen cupboard, garage, cellar or under the stairs. Test it every six months."
+    },
+    {
+      "q": "Do I need to call a plumber for a burst pipe?",
+      "a": "Yes, once the water is off. The Met Office recommends a WaterSafe-approved plumber for a burst pipe, and you should contact your insurer."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Met Office: What to do if you have a frozen or burst pipe",
+      "url": "https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/your-home/frozen-or-burst-pipes"
+    },
+    {
+      "title": "American Red Cross: Preventing and thawing frozen pipes",
+      "url": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm/frozen-pipes.html"
+    },
+    {
+      "title": "CDC: Winter Weather Toolkit",
+      "url": "https://stacks.cdc.gov/view/cdc/152783/cdc_152783_DS1.pdf"
+    },
+    {
+      "title": "WaterSafe: find an approved plumber",
+      "url": "https://www.watersafe.org.uk/"
+    }
+  ]
+}

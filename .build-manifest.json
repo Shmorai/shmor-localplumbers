@@ -1,6 +1,8 @@
 [
   "bathroom-plumbing/index.html",
   "blocked-drains/index.html",
+  "blog/frozen-pipes-what-to-do/index.html",
+  "blog/index.html",
   "boiler-repair/index.html",
   "choosing-a-plumber/index.html",
   "emergency-plumbers/index.html",
@@ -15,6 +17,7 @@
   "search/index.html",
   "search-index.json",
   "404.html",
+  "blog/feed.xml",
   "sitemap.xml",
   "robots.txt"
 ]

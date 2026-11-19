@@ -1,0 +1,30 @@
+{
+  "updated": "2026-11-19",
+  "slug": "blog",
+  "type": "blog",
+  "title": "Plumbing Guides & Blog | LocalPlumbers",
+  "description": "Plain-English plumbing guides for the UK and USA: frozen pipes, leaks, boilers, drains and how to choose a plumber, checked against official sources.",
+  "nav": "Blog",
+  "navOrder": 7,
+  "eyebrow": "Leaks · Boilers · Drains · UK & USA",
+  "h1": "Plumbing guides",
+  "intro": "Practical advice for UK and US homes: what to do in a plumbing emergency, how to avoid problems, and how to check a plumber before you book.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1676210134188-4c05dd172f89",
+    "alt": "Plumber working on a pipe inside a wall",
+    "credit": "Timur Shakerzianov",
+    "creditUrl": "https://unsplash.com/@shaker_jpg"
+  },
+  "search": false,
+  "listTitle": "Latest guides",
+  "keywords": [
+    "plumbing blog",
+    "plumbing guides uk",
+    "plumbing advice usa",
+    "frozen pipes guide",
+    "boiler advice",
+    "drain advice",
+    "choosing a plumber guide"
+  ],
+  "cardText": "Plumbing guides for UK and US homes."
+}
