@@ -1,0 +1,79 @@
+{
+  "updated": "2026-11-21",
+  "date": "2026-11-21",
+  "type": "post",
+  "slug": "blog/water-heater-temperature-settings-uk-usa",
+  "title": "Water Heater Temperature: What to Set It To (UK & US)",
+  "description": "What temperature should a water heater or hot water cylinder be set to? UK and US official guidance on scalding, legionella and safe checks at the tap.",
+  "h1": "Water heater temperature: what to set it to, and why UK and US advice differs",
+  "eyebrow": "Hot water safety · UK & USA",
+  "intro": "Turn a dial too low and you worry about bacteria; too high and you worry about scalds. Official advice in the UK and the US points at different numbers because it is solving slightly different problems. Here is how to make sense of both.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1676210134190-3f2c0d5cf58d",
+    "alt": "Plumber fixing a water heater",
+    "credit": "Timur Shakerzianov",
+    "creditUrl": "https://unsplash.com/@shaker_jpg"
+  },
+  "keywords": [
+    "water heater temperature",
+    "what temperature should water heater be set at",
+    "hot water cylinder temperature",
+    "hot water temperature uk",
+    "water heater 120 degrees",
+    "scalding hot water",
+    "legionella hot water temperature",
+    "water heater thermostat setting",
+    "thermostatic mixing valve"
+  ],
+  "cardText": "What to set a water heater or hot water cylinder to, with UK and US official guidance on scalds and legionella.",
+  "sections": [
+    {
+      "h2": "Why UK and US guidance gives different numbers",
+      "html": "<p>In the <strong>US</strong>, the Consumer Product Safety Commission (CPSC) urges households to lower their water heaters to <strong>120°F (49°C)</strong>, mainly to prevent tap-water scalds, and notes it also saves energy. In the <strong>UK</strong>, the Health and Safety Executive's guidance on hot and cold water systems says hot water should be <strong>stored at 60°C or higher</strong> and reach <strong>50°C within one minute at the outlets</strong>, because heat is the main way to keep legionella bacteria under control.</p><p>The two are not as contradictory as they look. Storing water hot and then limiting what comes out of the tap (with a mixing valve) is one approach; keeping the whole tank cooler is another. Which fits your home depends on the type of system and who lives there.</p>"
+    },
+    {
+      "h2": "US homes: the 120°F guideline and how fast water burns",
+      "html": "<p>The CPSC says most tap-water scald injuries and deaths involve <strong>older adults and children under five</strong>. Its published burn times for adults are sobering:</p><ul><li>about <strong>2 seconds</strong> at 150°F</li><li>about <strong>6 seconds</strong> at 140°F</li><li>about <strong>30 seconds</strong> at 130°F</li><li>even at 120°F, a <strong>five-minute</strong> exposure could cause third-degree burns</li></ul><p>CPSC suggests setting the thermostat to the lowest level that still meets your hot water needs, including dishwashers and washing machines. To check what you actually have, hold a cooking or meat thermometer under the hot tap first thing in the morning, or at least two hours after hot water was last used.</p>"
+    },
+    {
+      "h2": "UK homes: stored hot water, combi boilers and mixing valves",
+      "html": "<p>The HSE's 60°C storage figure applies to systems that <strong>store</strong> hot water, such as a vented or unvented cylinder. A combi boiler heats water on demand and has no stored hot water, so there is no cylinder thermostat to set. If you have a cylinder, follow the manufacturer's instructions and your installer's advice before changing it.</p><p>HSE also says that where vulnerable people can get to baths or showers and scalding risk is significant, a <strong>Type 3 thermostatic mixing valve (TMV)</strong> should be fitted so water is not discharged at more than 44°C. For most people the HSE considers scald risk minimal where hand-wash basin water is delivered at up to 50°C. If you rent your home, your landlord has legionella responsibilities under HSE guidance; see the source list below.</p>"
+    },
+    {
+      "h2": "How to check and adjust the temperature safely",
+      "html": "<ol><li><strong>Measure first.</strong> Run the hot tap until it is as hot as it gets, then read it with a thermometer.</li><li><strong>Hand-test before bathing children</strong> or anyone who cannot feel heat well. Never leave a young child alone in a bath.</li><li><strong>Adjust only what you are allowed to.</strong> On a US electric heater, power must be switched off at the breaker before you open the thermostat panel, and many have two thermostats. Gas heaters differ by model, so check the manual or call your gas company.</li><li><strong>Wait and re-test.</strong> The CPSC advises not using hot water for a couple of hours before measuring after an adjustment.</li></ol><p>Never fiddle with gas controls or electrical wiring if you are unsure. That is a job for a licensed plumber or electrician.</p>"
+    },
+    {
+      "h2": "When to call a plumber",
+      "html": "<p>Call a professional if the water stays scalding after you lower the setting (the thermostat may be faulty), if you have no hot water at all, if there is a leak or odd noises from the tank, or if you want a mixing valve fitted. Our guides to <a href=\"/water-heater-repair/\">water heater repair</a> (US) and <a href=\"/boiler-repair/\">boiler repair</a> (UK) explain what to expect.</p><p>In the UK, use a WaterSafe-approved plumber and a Gas Safe registered engineer for anything gas-related; in the US, check your state or city licence lookup. Use the <a href=\"/find-a-plumber/\">plumber finder</a> to pick your country and region, then read <a href=\"/choosing-a-plumber/\">how to choose a plumber</a>. Winter is also when pipes fail, so see <a href=\"/blog/frozen-pipes-what-to-do/\">frozen pipes: what to do</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the safest water heater temperature in the US?",
+      "a": "The US Consumer Product Safety Commission urges households to set water heaters to 120°F (49°C) to reduce scald risk, using the lowest setting that still meets your hot water needs."
+    },
+    {
+      "q": "What temperature should a hot water cylinder be in the UK?",
+      "a": "The HSE's guidance on hot and cold water systems says hot water should be stored at 60°C or higher and reach 50°C within a minute at the outlets. A thermostatic mixing valve can limit the temperature at the tap where scalding is a concern."
+    },
+    {
+      "q": "Does a combi boiler have a water temperature setting like a tank?",
+      "a": "A combi boiler heats water as you use it and does not store hot water, so there is no cylinder thermostat. Any hot water temperature control is on the boiler and varies by model, so check the manual."
+    }
+  ],
+  "sources": [
+    {
+      "title": "US CPSC: Avoiding Tap Water Scalds",
+      "url": "https://www.cpsc.gov/s3fs-public/5098-Tap-Water-Scalds.pdf"
+    },
+    {
+      "title": "HSE: Legionella and hot and cold water systems",
+      "url": "https://www.hse.gov.uk/legionnaires/hot-and-cold.htm"
+    },
+    {
+      "title": "HSE: Legionella and landlords' responsibilities",
+      "url": "https://www.hse.gov.uk/legionnaires/legionella-landlords-responsibilities.htm"
+    }
+  ]
+}

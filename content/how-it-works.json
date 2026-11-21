@@ -55,6 +55,14 @@
     {
       "h2": "How we make money",
       "html": "<p>Some links go to partners who may pay us a referral fee if you use their service. That never changes what you pay. Partner links are marked and use our <a href=\"https://shmor.ai/affiliate-disclosure/\">Shmor.ai affiliate disclosure</a>. LocalPlumbers is part of the <a href=\"https://shmor.ai/\">Shmor.ai</a> network.</p>"
+    },
+    {
+      "h2": "What to have ready before you ask for quotes",
+      "html": "<p>Whichever country you choose, a few details help plumbers give a realistic response: what is wrong and where, how long it has been happening, the make and age of any boiler or water heater, whether it is urgent, and your region. Photos of the problem and of any appliance label are useful. If water is escaping, stop it first: see <a href=\"/blog/frozen-pipes-what-to-do/\">frozen pipes: what to do</a> and our <a href=\"/leaks-and-burst-pipes/\">leaks and burst pipes</a> page.</p>"
+    },
+    {
+      "h2": "After you are introduced",
+      "html": "<p>Introductions are the start, not the end. Ask any plumber for their registration or licence details and check them on the official register for your country (see <a href=\"/choosing-a-plumber/\">how to choose a plumber</a>), get the scope and price in writing, and ask what happens if the job changes. LocalPlumbers does not take part in the work or the payment between you and the plumber.</p>"
     }
   ],
   "faqs": [
@@ -65,6 +73,14 @@
     {
       "q": "I'm a plumber. Can I be listed?",
       "a": "We're building partnerships with quote services across the UK and USA. Get in touch through <a href=\"https://shmor.ai/contact/\">Shmor.ai contact</a>."
+    },
+    {
+      "q": "Can I use LocalPlumbers for an emergency?",
+      "a": "For an emergency such as a gas smell, call your gas emergency number or 911 first, then see our <a href=\"/emergency-plumbers/\">emergency plumbers</a> page for the steps to take while you wait."
+    },
+    {
+      "q": "Does it cost anything to be introduced?",
+      "a": "Using LocalPlumbers is free for visitors. Any price for the work is agreed directly between you and the plumber, so compare quotes before you accept."
     }
   ],
   "related": [
@@ -77,6 +93,6 @@
     "plumber introductions",
     "about localplumbers"
   ],
-  "updated": "2026-10-14",
+  "updated": "2026-11-21",
   "cardText": "LocalPlumbers helps you compare your options and get introduced to plumbers in your area."
 }
