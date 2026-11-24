@@ -1,0 +1,79 @@
+{
+  "updated": "2026-11-24",
+  "date": "2026-11-24",
+  "type": "post",
+  "slug": "blog/carbon-monoxide-boiler-water-heater-safety",
+  "title": "Carbon Monoxide and Boilers: Winter Safety Guide",
+  "description": "Carbon monoxide from boilers and water heaters: symptoms, where to fit an alarm, what to do if it sounds and when to call a registered engineer (UK and US).",
+  "h1": "Carbon monoxide and your boiler or water heater: a winter safety guide",
+  "eyebrow": "Home safety · UK & USA",
+  "intro": "Heating works harder in winter, and so do the appliances that can leak carbon monoxide (CO) when something goes wrong. You cannot see or smell it. Here is what the NHS and the US CDC say about spotting the signs, fitting alarms and getting appliances checked.",
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Carbon_monoxide_alarm.jpg/1920px-Carbon_monoxide_alarm.jpg",
+    "alt": "A white round carbon monoxide alarm with a test button lying on a wooden surface",
+    "credit": "Santeri Viinamäki / CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Carbon_monoxide_alarm.jpg"
+  },
+  "keywords": [
+    "carbon monoxide boiler",
+    "carbon monoxide poisoning symptoms",
+    "carbon monoxide alarm where to put",
+    "boiler carbon monoxide leak",
+    "water heater carbon monoxide",
+    "co alarm uk",
+    "carbon monoxide detector placement",
+    "gas safe engineer boiler check",
+    "what to do if carbon monoxide alarm goes off"
+  ],
+  "cardText": "Symptoms, alarms and when to call a registered engineer, for UK and US homes.",
+  "sections": [
+    {
+      "h2": "Why boilers and water heaters can produce carbon monoxide",
+      "html": "<p>Carbon monoxide is a colourless, odourless gas produced when fuel such as gas, oil, coal or wood does not burn fully. A faulty or badly installed boiler, gas water heater, cooker or fire, or a blocked flue or chimney, can let it build up indoors. Because you cannot smell it, an alarm is your early warning.</p><p>If you are having a boiler or water heater fitted or repaired, our guides to <a href=\"/boiler-repair/\">boiler repair</a> (UK) and <a href=\"/water-heater-repair/\">water heater repair</a> (US) explain what to expect.</p>"
+    },
+    {
+      "h2": "Carbon monoxide poisoning symptoms to watch for",
+      "html": "<p>The NHS lists these symptoms:</p><ul><li>headache, dizziness, nausea or vomiting</li><li>weakness, tiredness and confusion</li><li>chest or muscle pain and shortness of breath</li><li>vision problems</li></ul><p>Symptoms often come and go, and tend to be worse in the room with the faulty appliance and ease when you go outside. Several people, or pets, feeling unwell at once is a warning sign.</p>"
+    },
+    {
+      "h2": "Where to put a carbon monoxide alarm",
+      "html": "<p><strong>UK:</strong> the NHS advises fitting an alarm in each room that has a gas, oil, coal or wood-burning appliance. <strong>US:</strong> the CDC advises battery-operated or battery back-up detectors near every sleeping area, and suggests checking batteries when the clocks change and replacing the detector every five years. Always follow the manufacturer's instructions for your model, including its replacement date, and test it regularly.</p><p>An alarm is a backstop, not a substitute for servicing the appliance.</p>"
+    },
+    {
+      "h2": "What to do if the alarm sounds or you feel unwell",
+      "html": "<ol><li>If it is safe to do so, turn off the suspected appliance.</li><li>Get everyone, including pets, outside into fresh air and open doors and windows on the way out.</li><li>Do not go back in until you have had advice.</li><li><strong>UK:</strong> call the free National Gas Helpline on <strong>0800 111 999</strong> if you suspect a gas appliance, NHS 111 for symptoms, or 999 if someone has trouble breathing, is confused or has lost consciousness. <strong>US:</strong> the CDC says to leave immediately and call 911.</li></ol><p>Do not use the appliance again until a registered engineer has inspected it.</p>"
+    },
+    {
+      "h2": "Prevention: servicing and choosing the right engineer",
+      "html": "<p>The NHS advises having heating and cooking appliances installed and serviced regularly by a qualified, registered engineer, and keeping chimneys, flues and vents clear. In Great Britain gas work must be done by a <strong>Gas Safe</strong> registered engineer; in the US, check your state or city licence lookup and insurance for a plumber or HVAC technician.</p><p>Use the <a href=\"/find-a-plumber/\">plumber finder</a> to pick your country and region, read <a href=\"/choosing-a-plumber/\">how to choose a plumber</a>, and see what <a href=\"/plumber-costs/\">affects plumbing costs</a>. If something is wrong right now, start with <a href=\"/emergency-plumbers/\">emergency plumbers</a>. Winter checks also include <a href=\"/blog/frozen-pipes-what-to-do/\">frozen pipes</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I smell carbon monoxide?",
+      "a": "No. It is colourless and odourless, which is why the NHS and CDC both recommend working alarms."
+    },
+    {
+      "q": "What should I do if my CO alarm goes off?",
+      "a": "Turn off the suspected appliance if it is safe, get everyone outside to fresh air and do not go back in until you have had advice. In the UK call the National Gas Helpline on 0800 111 999; in the US call 911."
+    },
+    {
+      "q": "Do I need a carbon monoxide alarm if my boiler is new?",
+      "a": "A new boiler can still develop faults or flue problems, so fitting an alarm is still advised in rooms with fuel-burning appliances."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS: Carbon monoxide poisoning",
+      "url": "https://www.nhs.uk/conditions/carbon-monoxide-poisoning/"
+    },
+    {
+      "title": "CDC: About carbon monoxide poisoning",
+      "url": "https://www.cdc.gov/carbon-monoxide/about/"
+    },
+    {
+      "title": "Gas Safe Register: carbon monoxide advice",
+      "url": "https://www.gassaferegister.co.uk/help-and-advice/carbon-monoxide/"
+    }
+  ]
+}
