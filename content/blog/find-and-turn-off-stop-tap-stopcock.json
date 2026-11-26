@@ -1,0 +1,88 @@
+{
+  "updated": "2026-11-26",
+  "date": "2026-11-26",
+  "type": "post",
+  "slug": "blog/find-and-turn-off-stop-tap-stopcock",
+  "title": "Stop Tap or Main Shut-Off: How to Find Yours",
+  "description": "Find your stop tap (stopcock) in the UK or main water shut-off valve in the USA before a leak or burst pipe happens. Where it hides and how to test it.",
+  "h1": "How to find your stop tap or main water shut-off valve (before you need it)",
+  "eyebrow": "Plumbing basics · UK & USA",
+  "intro": "When a pipe bursts, the first thing every plumber will ask is whether you can turn the water off. Finding the valve now, and checking it moves, takes ten minutes and can save you a flooded kitchen. Here is where to look in UK and US homes.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1596394723269-b2cbca4e6313",
+    "alt": "Water drop on a brass pipe",
+    "credit": "Elimende Inagella",
+    "creditUrl": "https://unsplash.com/@elimendeinagella"
+  },
+  "keywords": [
+    "stop tap",
+    "where is my stop tap",
+    "stopcock location",
+    "how to turn off water at the mains",
+    "main water shut off valve",
+    "where is the main water shut off valve",
+    "turn off water burst pipe",
+    "stop tap stuck",
+    "outside stop tap",
+    "water shut off valve location"
+  ],
+  "cardText": "Where to find and how to test your stop tap (UK) or main water shut-off valve (USA).",
+  "sections": [
+    {
+      "h2": "What is a stop tap, and why does it matter?",
+      "html": "<p>In the UK a <strong>stop tap</strong> (often called a stopcock) is the valve that shuts off the mains water supply to your home. In the USA the equivalent is the <strong>main water shut-off valve</strong>. If a pipe bursts, a tank overflows or a fitting fails, closing it stops more water entering the house while you wait for a repair.</p><p>Knowing where it is also helps any plumber you call. If you are dealing with an active leak, see our guide to <a href=\"/leaks-and-burst-pipes/\">leaks and burst pipes</a> and <a href=\"/emergency-plumbers/\">emergency plumbers</a>.</p>"
+    },
+    {
+      "h2": "Where to find your inside stop tap in the UK",
+      "html": "<p>WaterSafe, the UK plumbing approval register, says the internal stop tap is usually under the kitchen sink. Other common spots are a kitchen cupboard, a downstairs bathroom or toilet, a garage or utility room, a cellar, or under the stairs. It looks like a spout-less tap or lever fitted between two lengths of pipe.</p><p>Water companies add that if you have a water meter, the stop tap is often next to it. If you cannot find yours, ask a plumber to help you locate it, and label it once you do.</p>"
+    },
+    {
+      "h2": "Inside or outside stop tap: which to use",
+      "html": "<p>Water company guidance such as Wessex Water's says to use the <strong>inside</strong> stop tap for a burst or leak on a pipe inside your property. The <strong>outside</strong> stop tap (usually under a small cover near the boundary or pavement) is for a leak on the private supply pipe outside, or if the inside tap is broken.</p><p>If you share a supply pipe with a neighbour, turning off the outside tap cuts their water too, so tell them first. Your water company can tell you which parts of the pipework you are responsible for.</p>"
+    },
+    {
+      "h2": "Where to find the main water shut-off valve in the USA",
+      "html": "<p>The main shut-off valve is typically where the water line enters the house, so look in a basement, utility room, crawl space, garage or near the water heater in colder climates, and outdoors or in a meter box in warmer ones. The valve has either a lever handle or a round wheel handle. A lever is usually closed when it sits at a right angle to the pipe.</p><p>If the main valve is missing or broken, the city water meter often has its own shut-off, and your water utility can advise. Your local utility is the best source for how it applies in your area.</p>"
+    },
+    {
+      "h2": "How to turn it off, and test it so it works when it counts",
+      "html": "<ol><li>Turn a UK stop tap or wheel-type valve <strong>clockwise</strong> to close. It may take several turns, and water can keep running for a few minutes.</li><li>Move it slowly and never force it. Over-tightening can damage the valve.</li><li>Turn it back <strong>anticlockwise</strong> to reopen, then check taps and joints for drips.</li><li>Test it once or twice a year so it does not seize. Open a tap to confirm the water stops.</li></ol><p>If the valve will not turn or will not shut off fully, get it repaired. In the UK, WaterSafe lists approved plumbers; compare options with our <a href=\"/find-a-plumber/\">plumber finder</a> and read <a href=\"/choosing-a-plumber/\">how to choose a plumber</a>. Our <a href=\"/blog/frozen-pipes-what-to-do/\">frozen pipes guide</a> explains what to do next in cold weather.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between a stop tap and a stopcock?",
+      "a": "They mean the same thing in everyday use: the valve that turns off the mains water supply to a property in the UK. 'Stop tap' is the term many water companies use."
+    },
+    {
+      "q": "My stop tap is stiff or will not turn. What should I do?",
+      "a": "Do not force it, as that can damage the valve. If you cannot close it, use the outside stop tap if appropriate, and have a plumber repair or replace the inside one."
+    },
+    {
+      "q": "Should I turn the water off if I go away in winter?",
+      "a": "Many people do. Ask your water supplier or a plumber about draining down and leaving the heating on a low setting, and check your home insurance conditions."
+    },
+    {
+      "q": "Where is the shut-off valve in a US apartment?",
+      "a": "Often there is a valve under each fixture and a unit or building main. Ask your landlord or building manager where the main is before an emergency."
+    }
+  ],
+  "sources": [
+    {
+      "title": "WaterSafe: How can I locate my internal stop tap to turn off my water in an emergency?",
+      "url": "https://watersafe.org.uk/advice/general_plumbing_advice/winter_advice/locate-internal-stop-tap"
+    },
+    {
+      "title": "Wessex Water: How to find your stop taps",
+      "url": "https://www.wessexwater.co.uk/your-water/finding-your-stop-tap"
+    },
+    {
+      "title": "United Utilities: Burst water pipe?",
+      "url": "https://www.unitedutilities.com/burst-pipe.aspx"
+    },
+    {
+      "title": "City of Bellevue: turn off your water",
+      "url": "https://bellevuewa.gov/es/node/70491"
+    }
+  ]
+}
